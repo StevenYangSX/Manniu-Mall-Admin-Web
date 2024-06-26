@@ -4,15 +4,10 @@ import { lazy } from "react";
 const MenuManagement = lazy(() => import("@/pages/systemPages/MenuManagement"));
 const RoleManagement = lazy(() => import("@/pages/systemPages/RoleManagement"));
 const UserManagement = lazy(() => import("@/pages/systemPages/UserManagement"));
-const ImageManagement = lazy(() => import("@/pages/systemPages/ImageManagement"));
 const systemSetting = [
   {
     path: "/system",
-    element: <Navigate to="/system/images-management" />,
-  },
-  {
-    path: "/system/images-management",
-    element: SuspenseWrap(<ImageManagement />),
+    element: <Navigate to="/system/menu-management" />,
   },
   {
     path: "/system/menu-management",

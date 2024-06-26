@@ -75,15 +75,3 @@ export interface SystemPageableSortType {
   sorted: boolean;
   unsorted: boolean;
 }
-
-
-export interface ProductCategoryType {
-  id:number,
-  parentId:number,
-  name:string,
-  sort:number,
-  show:number,
-  deleted:number,
-  image:string,
-  children: ProductCategoryType[]
-}

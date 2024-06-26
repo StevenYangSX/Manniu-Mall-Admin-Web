@@ -115,7 +115,7 @@ const Page = () => {
         {loginType === "account" && (
           <>
             <ProFormText
-              initialValue="admin"
+              initialValue="demo"
               name="username"
               fieldProps={{
                 size: "large",
@@ -137,7 +137,7 @@ const Page = () => {
               ]}
             />
             <ProFormText.Password
-              initialValue="123456"
+              initialValue="password"
               name="password"
               fieldProps={{
                 size: "large",
