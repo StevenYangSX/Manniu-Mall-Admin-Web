@@ -9,6 +9,7 @@ import systemSetting from "./modules/systemSetting";
 import SuspenseWrap from "./SuspenseWrap";
 import dataDisplayingRoutes from "./modules/dataDisplaying";
 import experienceRoutes from "./modules/experience";
+import productRoutes from "./modules/product";
 const LandingPage = lazy(() => import("@/pages/landingPage/LandingPage"));
 
 const routes = [
@@ -28,6 +29,7 @@ const routes = [
       ...dataDisplayingRoutes,
       ...reactKeysRoutes,
       ...systemSetting,
+      ...productRoutes,
     ],
   },
   {

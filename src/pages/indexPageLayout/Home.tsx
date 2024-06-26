@@ -65,7 +65,7 @@ const BasicLayout: React.FC = () => {
             style={{
               padding: 24,
               minHeight: 360,
-              height: "100%",
+              height: "98%",
               background: colorBgContainer,
               borderRadius: borderRadiusLG,
             }}

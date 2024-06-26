@@ -4,7 +4,7 @@ import { SystemMenuItem } from "@/types/systemDataTypes";
 
 export const getSystemMenusApi = () => {
   return HttpRequest<SystemMenuItem[]>({
-    url:"/systemMenu/menuList",
+    url:"/adminApi/menuList",
     method: "get",
   });
 };
