@@ -1,0 +1,521 @@
+[33mcommit ea6ba8c173ab299853d4bbad5dd77b858b4f8050[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Tue Jun 25 22:39:01 2024 -0700
+
+    Use Steven-Admin-Pro template to start Manniu-mall Admin Web project.
+
+[33mcommit 16b38f9e27a64fcec8454944d346b8e23061636e[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Wed May 15 00:52:58 2024 -0700
+
+    Added some documentation and deleted console.log
+
+[33mcommit ba518117d522087d144390d9a82db71dfc60434f[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sun May 12 14:32:52 2024 -0700
+
+    Changed default login user to demo
+
+[33mcommit 32d2ed11a547cdf49e7266452b1aff1ead841b91[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sun May 12 14:31:05 2024 -0700
+
+    Added http status 403 error handler.
+
+[33mcommit 2b5f43d09b3fb194be3dee7b505c5a72917c79b2[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sun May 12 13:27:34 2024 -0700
+
+    Fixed build error.
+
+[33mcommit 590ad9536a9a4387af352beda3055e467fd22cb0[m
+Merge: dbd190e 1270631
+Author: Steven Yang <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Sun May 12 13:24:48 2024 -0700
+
+    Merge pull request #40 from StevenYangSX/feature-login-page-refactor
+    
+    Deleted Chinese text in Login page. Deleted useless checkbox.
+
+[33mcommit 127063188d858aa122556a777f252af77a864769[m[33m ([m[1;31morigin/feature-login-page-refactor[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sun May 12 13:24:23 2024 -0700
+
+    Deleted Chinese text in Login page. Deleted useless checkbox.
+
+[33mcommit dbd190eea02dd9550ca5e6432354548009b0d629[m
+Merge: 91bc164 90f9693
+Author: Steven Yang <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 9 22:08:31 2024 -0700
+
+    Merge pull request #39 from StevenYangSX/prod
+    
+    Prod
+
+[33mcommit 90f9693e6b1888db7238bdbf7a7b28ca970930ec[m
+Merge: dde0292 91bc164
+Author: Steven Yang <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 9 22:08:11 2024 -0700
+
+    Merge pull request #38 from StevenYangSX/main
+    
+    Update resume link.
+
+[33mcommit 91bc16496a9aac0acb57f9d8f7282a08b64a8be7[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu May 9 22:07:36 2024 -0700
+
+    Update resume link.
+
+[33mcommit dde02925e599faf29e6e2f996990cdb8a8450e04[m
+Merge: a630729 ae5dfaf
+Author: Steven Yang <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 9 21:58:43 2024 -0700
+
+    Merge pull request #37 from StevenYangSX/main
+    
+    Merge main to prod.
+
+[33mcommit ae5dfaf438407d8edf8acd9174752b0a7b86486e[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu May 9 21:58:11 2024 -0700
+
+    Updated resume link
+
+[33mcommit a6307293a57eff2511c2a4d9f507f95368e98b45[m
+Merge: 93af59c af3957e
+Author: Steven Yang <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 9 18:54:31 2024 -0700
+
+    Merge pull request #36 from StevenYangSX/main
+    
+    Merge main to prod.
+
+[33mcommit af3957ee994ea1d9fde33dc8b18713d5bac577b4[m
+Merge: e841f2d 98e4a23
+Author: Steven Yang <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 9 18:53:56 2024 -0700
+
+    Merge pull request #35 from StevenYangSX/feature-merge-portfoli
+    
+    Feature merge portfoli
+
+[33mcommit 98e4a239a25a92d18ab801f7564378ced3732680[m[33m ([m[1;31morigin/feature-merge-portfoli[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu May 9 18:53:18 2024 -0700
+
+    Finished portfolio merging.
+
+[33mcommit d532f2ac3e976687bd0bdd3b03c39eabbf441f1f[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Wed May 8 16:19:20 2024 -0700
+
+    Added working experience
+
+[33mcommit 11d2e5bfbf3a7a510c9b1e9ac8de9e8278df9d44[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Wed May 8 14:38:57 2024 -0700
+
+    Finished landing page.
+
+[33mcommit 558b5b079f5abff885cf46429163ced93c2a5ab1[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Wed May 8 02:16:44 2024 -0700
+
+    Added portofoli Home page.
+
+[33mcommit 93af59c8afd4a47b94d5a9e6a6b454b72cb4123b[m
+Merge: fac34a9 e841f2d
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 19:15:36 2024 -0700
+
+    Merge pull request #34 from StevenYangSX/main
+    
+    Changed SSE
+
+[33mcommit e841f2d6c18f5f58c5642f4348f3a2d6f80d3099[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 19:15:13 2024 -0700
+
+    Changed SSE
+
+[33mcommit fac34a9257affcc6a26566b417db25a93de4e0ec[m
+Merge: 64e10d7 772ae55
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 17:27:07 2024 -0700
+
+    Merge pull request #33 from StevenYangSX/main
+    
+    Merge main to prod.
+
+[33mcommit 772ae55d535c72cabf24d0de4f74de1b78195b96[m
+Merge: 9759b2a 686a000
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 17:26:18 2024 -0700
+
+    Merge branch 'main' of https://github.com/StevenYangSX/steven-react-admin-pro
+
+[33mcommit 9759b2ab9f488674e5744b2652b6fc19bf2c6bd0[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 17:26:05 2024 -0700
+
+    Changed SSE URLs
+
+[33mcommit 64e10d7d5ad532cae61c4a27f1d8c588cccc6085[m
+Merge: 4071aa4 686a000
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 16:05:57 2024 -0700
+
+    Merge pull request #32 from StevenYangSX/main
+    
+    Merge pull request #31 from StevenYangSX/prod
+
+[33mcommit 686a00090749d6f177babc9c63676a5cf1a0cba2[m
+Merge: 645d51c 4071aa4
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 16:05:23 2024 -0700
+
+    Merge pull request #31 from StevenYangSX/prod
+    
+    Prod
+
+[33mcommit 4071aa49ddd2110f9734956e497da50f3a675e4a[m
+Merge: 46d1521 645d51c
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 16:04:53 2024 -0700
+
+    Merge pull request #30 from StevenYangSX/main
+    
+    Added env files.
+
+[33mcommit 645d51cbbf98a6ca028f8a1594622a08cd0ed662[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 16:03:09 2024 -0700
+
+    Added env files.
+
+[33mcommit 46d152191e002dee4bebe16aecc521985543eaf3[m
+Merge: 801261a 9029202
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 15:44:00 2024 -0700
+
+    Merge pull request #29 from StevenYangSX/main
+    
+    Merge new features to prod.
+
+[33mcommit 902920250408e44d555c90650fe36a3d8dfe36d0[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 15:43:01 2024 -0700
+
+    Deleted console log.
+
+[33mcommit 00ddb0eb238ac0c8608663bc38ad3fa0daa8595a[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 15:12:11 2024 -0700
+
+    Added env variables
+
+[33mcommit cf433e41e8700c4a34ea92776c395a42f53114e0[m
+Merge: ccf1c8f 341260e
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 14:45:15 2024 -0700
+
+    Merge branch 'main' of https://github.com/StevenYangSX/steven-react-admin-pro
+
+[33mcommit ccf1c8f65c1b55a7c35cb89602e5e85d0fc43fa7[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 14:44:40 2024 -0700
+
+    Change env variables.
+
+[33mcommit 341260efce16ff0ec4d3a855a1c2b907c59b8553[m
+Merge: 9be0e0a 10a77db
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon May 6 14:35:07 2024 -0700
+
+    Merge pull request #28 from StevenYangSX/feature-dashboard
+    
+    Feature dashboard Finished.
+
+[33mcommit 10a77dbbc408ba758d22001a7b01609a09027554[m[33m ([m[1;31morigin/feature-dashboard[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 14:34:33 2024 -0700
+
+    Fixed build errors.
+
+[33mcommit 00a3f58aaf903a7919b2a77a81fa28868324d753[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 14:32:53 2024 -0700
+
+    Finished Dashboard features.
+
+[33mcommit 22d2423301c1548b47ce107601692e0488aaffe3[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon May 6 01:23:35 2024 -0700
+
+    Added dashboard form.
+
+[33mcommit 23a4247db658a171828628a8fa75aebbda82db8f[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Fri May 3 21:29:45 2024 -0700
+
+    Added dashboard 4 charts and SSE.
+
+[33mcommit 801261aa6ce149d5e2135c3d365f6ec9de5bf146[m
+Merge: e6b0396 9be0e0a
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Fri May 3 01:31:30 2024 -0700
+
+    Merge pull request #27 from StevenYangSX/main
+    
+    Merge main to prod for production release.
+
+[33mcommit 9be0e0af475d78c8d975d04c554ae55536a9b52a[m
+Merge: 0a07dcb 4cdac1a
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Fri May 3 01:30:17 2024 -0700
+
+    Merge pull request #26 from StevenYangSX/content-react-keys
+    
+    Changed Request Url to Https.
+
+[33mcommit 4cdac1ae7106c8c0756ddec8c58db0f1b8a1512e[m[33m ([m[1;31morigin/content-react-keys[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Fri May 3 01:29:49 2024 -0700
+
+    Changed Request Url to Https.
+
+[33mcommit e6b03962851720248e15a7b46ae24716874c2f83[m
+Merge: 61c1c30 0a07dcb
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 2 22:26:22 2024 -0700
+
+    Merge pull request #25 from StevenYangSX/main
+    
+    Merge main branch to  prod.
+
+[33mcommit 0a07dcb47878a4ddf5679660979e3e25b7e1e601[m
+Merge: ddbc23b 07e4e64
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu May 2 22:25:12 2024 -0700
+
+    Merge pull request #24 from StevenYangSX/content-react-keys
+    
+    React Key Knowledge Series
+
+[33mcommit 07e4e6420231357ae8daabeda0e6feccbe9d4bb3[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu May 2 22:21:50 2024 -0700
+
+    Added useCallbackHook component.
+
+[33mcommit 744920326fd5e1007d3c6c732829eee132e81d9e[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu May 2 16:21:48 2024 -0700
+
+    Fixed build errors.
+
+[33mcommit 3dda60473e45cdb208e7b7c44bb44df4366858ee[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu May 2 14:05:28 2024 -0700
+
+    Added useMemo hook.
+
+[33mcommit 7db1ebd3fa024a27f39e55ad641a6e60bcc1487a[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Wed May 1 14:47:30 2024 -0700
+
+    Added useRef hook.
+
+[33mcommit 82b5f7b48b2ae7da858c0f747f2357c86b0dd8f2[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Tue Apr 30 23:18:41 2024 -0700
+
+    Added useState , useEffect tab content.
+
+[33mcommit 6db9e012a3ad5a0739e152ecea8c8cf751f6c9e8[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Tue Apr 30 00:53:26 2024 -0700
+
+    Added Class component life cycle explanition part.
+
+[33mcommit 61c1c306349c7181ee794594789a81b4fecf07e1[m
+Merge: 47c7de5 ddbc23b
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon Apr 29 00:59:23 2024 -0700
+
+    Merge pull request #23 from StevenYangSX/main
+    
+    Test codesandbox feature.
+
+[33mcommit ddbc23b00c4cc22d4da7266efda66a0ba3f7d2e2[m
+Merge: 830d903 e40e172
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon Apr 29 00:58:33 2024 -0700
+
+    Merge pull request #22 from StevenYangSX/content-react-keys
+    
+    Added codesandbox in project.
+
+[33mcommit e40e172a73097198f86a77bbf7f846ab6fb75ca9[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon Apr 29 00:57:59 2024 -0700
+
+    Added codesandbox in project.
+
+[33mcommit 47c7de506a0dafb5de81c31443e09f9313bc1b79[m
+Merge: 336b332 830d903
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Sun Apr 28 22:34:28 2024 -0700
+
+    Merge pull request #21 from StevenYangSX/main
+    
+    Merge main to prod
+
+[33mcommit 830d903bfa00e1438c84fe5c132564a8ef00acc7[m
+Merge: 354c545 6bd4358
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Sun Apr 28 22:33:56 2024 -0700
+
+    Merge pull request #20 from StevenYangSX/feature-breadcrumb
+    
+    Finished breadcrumb feature.
+
+[33mcommit 6bd435838326d9a1ae8b79ce0b4a412ad1bb2775[m[33m ([m[1;31morigin/feature-breadcrumb[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sun Apr 28 22:32:28 2024 -0700
+
+    Finished breadcrumb feature.
+
+[33mcommit 336b332c30809e0d7f01129805673f159a018717[m
+Merge: 4320bf5 354c545
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu Apr 25 23:49:45 2024 -0700
+
+    Merge pull request #19 from StevenYangSX/main
+    
+    Change.
+
+[33mcommit 354c54532e1f5b69a163424464c231c4d4ad56dd[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu Apr 25 23:30:19 2024 -0700
+
+    Fixed MainMenu.tsx location.
+
+[33mcommit 23937639c9bebe9b85b8bf2226f418965f25e455[m
+Merge: af2ccf8 4320bf5
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Thu Apr 25 23:27:21 2024 -0700
+
+    Merge pull request #18 from StevenYangSX/prod
+    
+    Prod
+
+[33mcommit 4320bf5284af5354228ae6ada4945fa22661a489[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu Apr 25 23:27:01 2024 -0700
+
+    changes.
+
+[33mcommit 7b82b8113f4f2f6ef33c8e98f479e3ae9871e5fd[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu Apr 25 23:12:31 2024 -0700
+
+    changed package.json file.
+
+[33mcommit 377ca38b4f25ddbf5fd578dd53b2627ebad75866[m
+Merge: 90973bd af2ccf8
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Tue Apr 23 22:16:38 2024 -0700
+
+    Merge pull request #17 from StevenYangSX/main
+    
+    Merge main to prod
+
+[33mcommit af2ccf85c5a1ae864e5d5a3d18c36797c643b20e[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Tue Apr 23 22:14:58 2024 -0700
+
+    Deleted httpRequest.ts file.
+
+[33mcommit efe11c55cb217b632376668dda5c0ab8b227f67d[m
+Merge: 0fe0026 90973bd
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Tue Apr 23 22:12:44 2024 -0700
+
+    Merge pull request #16 from StevenYangSX/prod
+    
+    Prod
+
+[33mcommit 90973bd93f18095dd6147eb3dd7d70218f35886f[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Tue Apr 23 22:12:05 2024 -0700
+
+    Modified README.md file and fixed build-errors.
+
+[33mcommit 2cbbbcef404146f1f91206b17bfccd8881bad78e[m
+Merge: c37f4a5 0fe0026
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Tue Apr 23 21:09:25 2024 -0700
+
+    Merge branch 'main' into prod
+
+[33mcommit 0fe002649e0444d4d90817bffb73cb529222f60e[m
+Merge: bfaf26e 56870af
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Mon Apr 22 23:33:26 2024 -0700
+
+    Merge pull request #15 from StevenYangSX/feature-role-management
+    
+    Feature role management
+
+[33mcommit 56870af082b8ce3be12fd99c34e8b411da6355e8[m[33m ([m[1;31morigin/feature-role-management[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon Apr 22 23:32:38 2024 -0700
+
+    Finished user-management functions.
+
+[33mcommit 15f3a00cc4740c2d16d2cccfbb0896aecabbd407[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sun Apr 21 23:09:57 2024 -0700
+
+    Finished System-Role insertion, deletion, and modification functions.
+
+[33mcommit 5c92c14cc14f8c10a8a59cf447c15707ef584f43[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Sat Apr 20 23:14:18 2024 -0700
+
+    Added Role-management page. Added Role list form.
+
+[33mcommit bfaf26e80b0db07a0461259dee11dfc010dbb706[m
+Merge: 72e397c 60b062f
+Author: StevenYangSX <44383435+StevenYangSX@users.noreply.github.com>
+Date:   Fri Apr 19 13:45:56 2024 -0700
+
+    Merge pull request #14 from StevenYangSX/feature-system-menu-management
+    
+    Feature system menu management
+
+[33mcommit 60b062f11dc4357b234c2fc064be18aa8494f8c2[m[33m ([m[1;31morigin/feature-system-menu-management[m[33m)[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Fri Apr 19 13:45:22 2024 -0700
+
+    Deleted system footer. Minor changes on Menu-management table.
+
+[33mcommit 60f7fc22bc94b10660007ee3643b3a3e5c45d2d3[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Thu Apr 18 22:41:11 2024 -0700
+
+    Finished all menu-management features, including add, modification, and delete.
+
+[33mcommit 0f357a5a9558fc5dae2fc5ae752089fb0bfe3743[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Mon Apr 15 21:33:17 2024 -0700
+
+    Implemented 'Add Menu Item' feature. Finished Iconlist component.
+
+[33mcommit 16dda1aa79420600b5e6c23edcf1923473c77e0a[m
+Author: StevenYangSX <yangshixin1206@gmail.com>
+Date:   Fri Apr 12 21:57:55 2024 -0700
+
+    Finished add/delete menu item feature.
